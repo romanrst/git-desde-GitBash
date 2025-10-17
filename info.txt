@@ -1,2 +1,3 @@
+Segunda informacion, ampliando la informacion inicial del ejercicio
 Información inicial del ejercicio Git Bash.
 
